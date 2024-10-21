@@ -125,7 +125,7 @@
 ## Phần 8.3 - Thực hành xây dựng ứng dụng Web cùng với JDBC - 3
 >[1. Add Student - Overview](https://github.com/nmt-luu-tru/PRJ321x/blob/main/Add%20Student%20-%20Overview.md)
 >
->[2. Thêm Nút "Add Student"](https://github.com/nmt-luu-tru/PRJ321x/blob/main/Add%20Student%20-%20Overview.md)
+>[2. Thêm Nút "Add Student"](https://github.com/nmt-luu-tru/PRJ321x/blob/main/Add%20Student%20-%20Setting%20up%20the%20Button.md)
 >
 >[3. Tạo Form add-student-form.jsp](https://github.com/nmt-luu-tru/PRJ321x/blob/main/Add%20Student%20-%20Constructing%20the%20HTML%20Form.md)
 >
