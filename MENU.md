@@ -122,6 +122,18 @@
 >[6. Sử Dụng JSTL Để Tối Ưu Trang JSP](https://github.com/nmt-luu-tru/PRJ321x/blob/main/S%E1%BB%AD%20D%E1%BB%A5ng%20JSTL%20%C4%90%E1%BB%83%20T%E1%BB%91i%20%C6%AFu%20Trang%20JSP.md)
 >
 >[7. Cấu Hình web.xml Để Sử Dụng welcome-file](https://github.com/nmt-luu-tru/PRJ321x/blob/main/C%E1%BA%A5u%20H%C3%ACnh%20web.xml%20%C4%90%E1%BB%83%20S%E1%BB%AD%20D%E1%BB%A5ng%20welcome-file.md)
+## Phần 8.3 - Thực hành xây dựng ứng dụng Web cùng với JDBC - 3
+>[1. Add Student - Overview](https://github.com/nmt-luu-tru/PRJ321x/blob/main/Add%20Student%20-%20Overview.md)
+>
+>[2. Thêm Nút "Add Student"](https://github.com/nmt-luu-tru/PRJ321x/blob/main/Add%20Student%20-%20Overview.md)
+>
+>[3. Tạo Form add-student-form.jsp](https://github.com/nmt-luu-tru/PRJ321x/blob/main/Add%20Student%20-%20Constructing%20the%20HTML%20Form.md)
+>
+>>[Tại Sao Lại Sử Dụng Phương Thức GET Thay Vì POST?](https://github.com/nmt-luu-tru/PRJ321x/blob/main/T%E1%BA%A1i%20Sao%20L%E1%BA%A1i%20S%E1%BB%AD%20D%E1%BB%A5ng%20Ph%C6%B0%C6%A1ng%20Th%E1%BB%A9c%20GET%20Thay%20V%C3%AC%20POST%3F.md)
+>>
+>[4. Cập Nhật StudentControllerServlet](https://github.com/nmt-luu-tru/PRJ321x/blob/main/Add%20Student%20-%20Developing%20the%20Servlet.md)
+>
+>[5. Cập Nhật StudentDbUtil](https://github.com/nmt-luu-tru/PRJ321x/blob/main/Add%20Student%20-%20Creating%20the%20JDBC%20Code.md)
 
 
 
