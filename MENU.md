@@ -148,6 +148,14 @@
 >[1. Delete Student - Creating the Delete Link](https://github.com/nmt-luu-tru/PRJ321x/blob/main/Delete%20Student%20-%20Creating%20the%20Delete%20Link.md)
 >
 >[2. Delete Student - Developing the Servlet and JDBC Code](https://github.com/nmt-luu-tru/PRJ321x/blob/main/Delete%20Student%20-%20Developing%20the%20Servlet%20and%20JDBC%20Code.md)
+## Phần 9 - Mở rộng
+>[1. Triển Khai Ứng Dụng Java Web Lên Tomcat Bằng WAR File](https://github.com/nmt-luu-tru/PRJ321x/blob/main/Deploying%20To%20Tomcat%20using%20WAR%20files.md)
+>
+>[2. Xử lý vấn đề: Click Refresh/Reload dẫn đến thêm sinh viên trùng lặp](https://github.com/nmt-luu-tru/PRJ321x/blob/main/Clicking%20Refresh%20or%20Reload%20button%20results%20in%20adding%20same%20student.md)
+>
+>[3. Giới thiệu về JSTL Internationalization](https://github.com/nmt-luu-tru/PRJ321x/blob/main/Multi-Lingual%20or%20Internationalization%20overview.md)
+>
+>[4. Thêm Liên Kết "Đổi Ngôn Ngữ" Vào Ứng Dụng Sử Dụng JSTL](https://github.com/nmt-luu-tru/PRJ321x/blob/main/Th%C3%AAm%20Li%C3%AAn%20K%E1%BA%BFt%20%22%C4%90%E1%BB%95i%20Ng%C3%B4n%20Ng%E1%BB%AF%22%20V%C3%A0o%20%E1%BB%A8ng%20D%E1%BB%A5ng%20S%E1%BB%AD%20D%E1%BB%A5ng%20JSTL.md)
 
 
 
