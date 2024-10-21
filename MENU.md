@@ -71,6 +71,12 @@
 >[4. Sử Dụng Tham Số Cấu Hình Theo Servlet (ServletConfig)](https://github.com/nmt-luu-tru/PRJ321x/blob/main/S%E1%BB%AD%20D%E1%BB%A5ng%20Tham%20S%E1%BB%91%20C%E1%BA%A5u%20H%C3%ACnh%20Theo%20Servlet.md)
 >
 >[5. Chuyển Hướng Từ JSP Sang Servlet](https://github.com/nmt-luu-tru/PRJ321x/blob/main/C%C3%A1ch%20Chuy%E1%BB%83n%20H%C6%B0%E1%BB%9Bng%20T%E1%BB%AB%20JSP%20Sang%20Servlet.md)
+## Phần 7. Mô hình MVC
+>[1. Mô Hình MVC Với Servlets và JSP](https://github.com/nmt-luu-tru/PRJ321x/blob/main/MVC%20with%20Servlets%20and%20JSP%20-%20Overview.md)
+>
+>[2. Ví Dụ Chi Tiết Từng Bước](https://github.com/nmt-luu-tru/PRJ321x/blob/main/MVC%20with%20Servlets%20and%20JSP%20-%20In%20More%20Detail.md)
+>
+>[3. Servlet Filter](https://github.com/nmt-luu-tru/PRJ321x/blob/main/T%C3%ACm%20Hi%E1%BB%83u%20V%E1%BB%81%20Servlet%20Filter.md)
 
 
 
