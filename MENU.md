@@ -144,6 +144,10 @@
 >[4. Update Student - Developing the Servlet](https://github.com/nmt-luu-tru/PRJ321x/blob/main/Update%20Student%20-%20Developing%20the%20Servlet.md)
 >
 >[5. Update Student - Creating the JDBC Code](https://github.com/nmt-luu-tru/PRJ321x/blob/main/Update%20Student%20-%20Creating%20the%20JDBC%20Code.md)
+## Phần 8.5 - Thực hành xây dựng ứng dụng Web cùng với JDBC - 5
+>[1. Delete Student - Creating the Delete Link](https://github.com/nmt-luu-tru/PRJ321x/blob/main/Delete%20Student%20-%20Creating%20the%20Delete%20Link.md)
+>
+>[2. Delete Student - Developing the Servlet and JDBC Code](https://github.com/nmt-luu-tru/PRJ321x/blob/main/Delete%20Student%20-%20Developing%20the%20Servlet%20and%20JDBC%20Code.md)
 
 
 
