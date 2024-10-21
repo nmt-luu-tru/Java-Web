@@ -134,6 +134,16 @@
 >[4. Cập Nhật StudentControllerServlet](https://github.com/nmt-luu-tru/PRJ321x/blob/main/Add%20Student%20-%20Developing%20the%20Servlet.md)
 >
 >[5. Cập Nhật StudentDbUtil](https://github.com/nmt-luu-tru/PRJ321x/blob/main/Add%20Student%20-%20Creating%20the%20JDBC%20Code.md)
+## Phần 8.4 - Thực hành xây dựng ứng dụng Web cùng với JDBC - 4
+>[1. Update Student - Creating the Update Link](https://github.com/nmt-luu-tru/PRJ321x/blob/main/Update%20Student%20-%20Creating%20the%20Update%20Link.md)
+>
+>[2. Update Student - Prepopulating the HTML Form - Part 1](https://github.com/nmt-luu-tru/PRJ321x/blob/main/Update%20Student%20-%20Prepopulating%20the%20HTML%20Form%20-%20Part%201.md)
+>
+>[3. Update Student - Prepopulating the HTML Form - Part 2](https://github.com/nmt-luu-tru/PRJ321x/blob/main/Update%20Student%20-%20Prepopulating%20the%20HTML%20Form%20-%20Part%202.md)
+>
+>[4. Update Student - Developing the Servlet](https://github.com/nmt-luu-tru/PRJ321x/blob/main/Update%20Student%20-%20Developing%20the%20Servlet.md)
+>
+>[5. Update Student - Creating the JDBC Code](https://github.com/nmt-luu-tru/PRJ321x/blob/main/Update%20Student%20-%20Creating%20the%20JDBC%20Code.md)
 
 
 
