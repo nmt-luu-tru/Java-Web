@@ -106,6 +106,23 @@
 >>[Ứng Dụng Được Khởi Chạy Khi Nào?](https://github.com/nmt-luu-tru/PRJ321x/blob/main/%E1%BB%A8ng%20D%E1%BB%A5ng%20%C4%90%C6%B0%E1%BB%A3c%20Kh%E1%BB%9Fi%20Ch%E1%BA%A1y%20Khi%20N%C3%A0o%3F.md)
 >>
 >>[Khi Ứng Dụng Được Triển Khai Thủ Công (Manual Deployment)](https://github.com/nmt-luu-tru/PRJ321x/blob/main/Khi%20%E1%BB%A8ng%20D%E1%BB%A5ng%20%C4%90%C6%B0%E1%BB%A3c%20Tri%E1%BB%83n%20Khai%20Th%E1%BB%A7%20C%C3%B4ng%20(Manual%20Deployment).md)
+## Phần 8.2 - Thực hành xây dựng ứng dụng Web cùng với JDBC - 2
+>[1. Tạo Lớp Student.java Cho Ứng Dụng Quản Lý Sinh Viên](https://github.com/nmt-luu-tru/PRJ321x/blob/main/B%C6%B0%E1%BB%9Bc%201%3A%20T%E1%BA%A1o%20L%E1%BB%9Bp%20Student.java%20Cho%20%E1%BB%A8ng%20D%E1%BB%A5ng%20Qu%E1%BA%A3n%20L%C3%BD%20Sinh%20Vi%C3%AAn.md)
+>
+>[2. Tạo Lớp Database Utility: StudentDbUtil.java](https://github.com/nmt-luu-tru/PRJ321x/blob/main/T%E1%BA%A1o%20L%E1%BB%9Bp%20Database%20Utility%3A%20StudentDbUtil.java.md)
+>
+>[3. Tạo StudentControllerServlet - Servlet Điều Khiển Yêu Cầu](https://github.com/nmt-luu-tru/PRJ321x/blob/main/B%C6%B0%E1%BB%9Bc%203%3A%20T%E1%BA%A1o%20StudentControllerServlet%20-%20Servlet%20%C4%90i%E1%BB%81u%20Khi%E1%BB%83n%20Y%C3%AAu%20C%E1%BA%A7u.md)
+>
+>>[Giải thích RequestDispatcher](https://github.com/nmt-luu-tru/PRJ321x/blob/main/gi%E1%BA%A3i%20th%C3%ADch%20RequestDispatcher.md)
+>>
+>[4. Tạo JSP cho Ứng Dụng Quản Lý Sinh Viên](https://github.com/nmt-luu-tru/PRJ321x/blob/main/B%C6%B0%E1%BB%9Bc%204%3A%20T%E1%BA%A1o%20JSP%20cho%20%E1%BB%A8ng%20D%E1%BB%A5ng%20Qu%E1%BA%A3n%20L%C3%BD%20Sinh%20Vi%C3%AAn.md)
+>
+>[5. Tạo và Sử Dụng CSS](https://github.com/nmt-luu-tru/PRJ321x/blob/main/T%E1%BA%A1o%20v%C3%A0%20S%E1%BB%AD%20D%E1%BB%A5ng%20CSS.md)
+>
+>[6. Sử Dụng JSTL Để Tối Ưu Trang JSP](https://github.com/nmt-luu-tru/PRJ321x/blob/main/S%E1%BB%AD%20D%E1%BB%A5ng%20JSTL%20%C4%90%E1%BB%83%20T%E1%BB%91i%20%C6%AFu%20Trang%20JSP.md)
+>
+>[7. Cấu Hình web.xml Để Sử Dụng welcome-file](https://github.com/nmt-luu-tru/PRJ321x/blob/main/C%E1%BA%A5u%20H%C3%ACnh%20web.xml%20%C4%90%E1%BB%83%20S%E1%BB%AD%20D%E1%BB%A5ng%20welcome-file.md)
+
 
 
 
