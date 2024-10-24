@@ -101,7 +101,7 @@
 >
 >[6. Tối Ưu Và Cấu Hình Connection Pool JDBC Của Tomcat Cho Môi Trường Sản Xuất](https://github.com/nmt-luu-tru/PRJ321x/blob/main/6.%20T%C3%A0i%20Nguy%C3%AAn%20Tham%20Kh%E1%BA%A3o%3A%20T%E1%BB%91i%20%C6%AFu%20V%C3%A0%20C%E1%BA%A5u%20H%C3%ACnh%20Connection%20Pool%20JDBC%20C%E1%BB%A7a%20Tomcat%20Cho%20M%C3%B4i%20Tr%C6%B0%E1%BB%9Dng%20S%E1%BA%A3n%20Xu%E1%BA%A5t.md)
 >
->[7. Tổng Quan Kiến Trúc Ứng Dụng Quản Lý Sinh Viên](https://github.com/nmt-luu-tru/PRJ321x/blob/main/T%E1%BB%95ng%20Quan%20Ki%E1%BA%BFn%20Tr%C3%BAc%20%E1%BB%A8ng%20D%E1%BB%A5ng.md)
+>[7. Tổng Quan Kiến Trúc Ứng Dụng ](https://github.com/nmt-luu-tru/PRJ321x/blob/main/T%E1%BB%95ng%20Quan%20Ki%E1%BA%BFn%20Tr%C3%BAc%20%E1%BB%A8ng%20D%E1%BB%A5ng.md)
 >>
 >>[Vòng Đời Của Ứng Dụng (Application Lifecycle)](https://github.com/nmt-luu-tru/PRJ321x/blob/main/V%C3%B2ng%20%C4%90%E1%BB%9Di%20C%E1%BB%A7a%20%E1%BB%A8ng%20D%E1%BB%A5ng%20(Application%20Lifecycle).md)
 >>
