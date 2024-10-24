@@ -115,6 +115,8 @@
 >
 >[3. Tạo StudentControllerServlet - Servlet Điều Khiển Yêu Cầu](https://github.com/nmt-luu-tru/PRJ321x/blob/main/B%C6%B0%E1%BB%9Bc%203%3A%20T%E1%BA%A1o%20StudentControllerServlet%20-%20Servlet%20%C4%90i%E1%BB%81u%20Khi%E1%BB%83n%20Y%C3%AAu%20C%E1%BA%A7u.md)
 >
+>>[Lý do khởi tạo DataSource trong StudentControllerServlet](https://github.com/nmt-luu-tru/PRJ321x/blob/main/L%C3%BD%20do%20kh%E1%BB%9Fi%20t%E1%BA%A1o%20DataSource%20trong%20StudentControllerServlet.md)
+>>
 >>[Giải thích RequestDispatcher](https://github.com/nmt-luu-tru/PRJ321x/blob/main/gi%E1%BA%A3i%20th%C3%ADch%20RequestDispatcher.md)
 >>
 >[4. Tạo JSP cho Ứng Dụng Quản Lý Sinh Viên](https://github.com/nmt-luu-tru/PRJ321x/blob/main/B%C6%B0%E1%BB%9Bc%204%3A%20T%E1%BA%A1o%20JSP%20cho%20%E1%BB%A8ng%20D%E1%BB%A5ng%20Qu%E1%BA%A3n%20L%C3%BD%20Sinh%20Vi%C3%AAn.md)
