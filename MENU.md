@@ -160,6 +160,9 @@
 >[3. Giới thiệu về JSTL Internationalization](https://github.com/nmt-luu-tru/PRJ321x/blob/main/Multi-Lingual%20or%20Internationalization%20overview.md)
 >
 >[4. Thêm Liên Kết "Đổi Ngôn Ngữ" Vào Ứng Dụng Sử Dụng JSTL](https://github.com/nmt-luu-tru/PRJ321x/blob/main/Th%C3%AAm%20Li%C3%AAn%20K%E1%BA%BFt%20%22%C4%90%E1%BB%95i%20Ng%C3%B4n%20Ng%E1%BB%AF%22%20V%C3%A0o%20%E1%BB%A8ng%20D%E1%BB%A5ng%20S%E1%BB%AD%20D%E1%BB%A5ng%20JSTL.md)
+# CÁC KIẾN THỨC CƠ BẢN VỀ SPRING FRAMEWORK
+[Link udemy](https://udemy.com/course/java-programming-tutorial-for-beginners/learn/lecture/25694062#overview)
+
 
 
 
