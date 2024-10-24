@@ -73,19 +73,15 @@
 >[5. Chuyển Hướng Từ JSP Sang Servlet](https://github.com/nmt-luu-tru/PRJ321x/blob/main/C%C3%A1ch%20Chuy%E1%BB%83n%20H%C6%B0%E1%BB%9Bng%20T%E1%BB%AB%20JSP%20Sang%20Servlet.md)
 ## Bài Tập Tổng Hợp 1
 ## Phần 7. Mô hình MVC
->[1. Mô Hình MVC Với Servlets và JSP](https://github.com/nmt-luu-tru/PRJ321x/blob/main/MVC%20with%20Servlets%20and%20JSP%20-%20Overview.md)
+>[1. Giới thiệu Mô Hình MVC Với Servlets và JSP](https://github.com/nmt-luu-tru/PRJ321x/blob/main/MVC%20with%20Servlets%20and%20JSP%20-%20Overview.md)
 >
 >[2. Ví Dụ Chi Tiết Từng Bước](https://github.com/nmt-luu-tru/PRJ321x/blob/main/MVC%20with%20Servlets%20and%20JSP%20-%20In%20More%20Detail.md)
 >
 >[3. Servlet Filter](https://github.com/nmt-luu-tru/PRJ321x/blob/main/T%C3%ACm%20Hi%E1%BB%83u%20V%E1%BB%81%20Servlet%20Filter.md)
-## Phần 8.1 - Thực hành xây dựng ứng dụng Web cùng với JDBC - 1
->[1. Tổng quan và demo project](https://github.com/nmt-luu-tru/PRJ321x/blob/main/Project%20Overview%20and%20Demo.md)
 >
->[2. Hướng Dẫn Thiết Lập Cơ Sở Dữ Liệu](https://github.com/nmt-luu-tru/PRJ321x/blob/main/H%C6%B0%E1%BB%9Bng%20D%E1%BA%ABn%20Thi%E1%BA%BFt%20L%E1%BA%ADp%20C%C6%A1%20S%E1%BB%9F%20D%E1%BB%AF%20Li%E1%BB%87u%20Cho%20D%E1%BB%B1%20%C3%81n.md)
+>[4. JDBC là gì?](https://github.com/nmt-luu-tru/PRJ321x/blob/main/JDBC%20l%C3%A0%20g%C3%AC.md)
 >
->[3. JDBC là gì?](https://github.com/nmt-luu-tru/PRJ321x/blob/main/JDBC%20l%C3%A0%20g%C3%AC.md)
->
->[4. Cấu Hình Tomcat Để Sử Dụng Database Connection Pool](https://github.com/nmt-luu-tru/PRJ321x/blob/main/C%E1%BA%A5u%20H%C3%ACnh%20Tomcat%20%C4%90%E1%BB%83%20S%E1%BB%AD%20D%E1%BB%A5ng%20Database%20Connection%20Pool.md)
+>[5. Cấu Hình Tomcat Để Sử Dụng Database Connection Pool](https://github.com/nmt-luu-tru/PRJ321x/blob/main/C%E1%BA%A5u%20H%C3%ACnh%20Tomcat%20%C4%90%E1%BB%83%20S%E1%BB%AD%20D%E1%BB%A5ng%20Database%20Connection%20Pool.md)
 >
 >>[Sự khác biệt giữa việc sử dụng JDBC với DriverManager và với Connection Pool](https://github.com/nmt-luu-tru/PRJ321x/blob/main/S%E1%BB%B1%20kh%C3%A1c%20bi%E1%BB%87t%20gi%E1%BB%AFa%20vi%E1%BB%87c%20s%E1%BB%AD%20d%E1%BB%A5ng%20JDBC%20v%E1%BB%9Bi%20DriverManager%20v%C3%A0%20v%E1%BB%9Bi%20Connection%20Pool.md)
 >>
@@ -97,17 +93,21 @@
 >>
 >>[Connection, Statement, và ResultSet](https://github.com/nmt-luu-tru/PRJ321x/blob/main/Connection%2C%20Statement%2C%20v%C3%A0%20ResultSet.md)
 >>
->[5. Thiết Lập Ứng Dụng Kết Nối Cơ Sở Dữ Liệu MySQL Bằng JDBC](https://github.com/nmt-luu-tru/PRJ321x/blob/main/Thi%E1%BA%BFt%20L%E1%BA%ADp%20%E1%BB%A8ng%20D%E1%BB%A5ng%20K%E1%BA%BFt%20N%E1%BB%91i%20C%C6%A1%20S%E1%BB%9F%20D%E1%BB%AF%20Li%E1%BB%87u%20MySQL%20B%E1%BA%B1ng%20JDBC.md)
+>[6. Thiết Lập Ứng Dụng Kết Nối Cơ Sở Dữ Liệu MySQL Bằng JDBC](https://github.com/nmt-luu-tru/PRJ321x/blob/main/Thi%E1%BA%BFt%20L%E1%BA%ADp%20%E1%BB%A8ng%20D%E1%BB%A5ng%20K%E1%BA%BFt%20N%E1%BB%91i%20C%C6%A1%20S%E1%BB%9F%20D%E1%BB%AF%20Li%E1%BB%87u%20MySQL%20B%E1%BA%B1ng%20JDBC.md)
 >
->[6. Tối Ưu Và Cấu Hình Connection Pool JDBC Của Tomcat Cho Môi Trường Sản Xuất](https://github.com/nmt-luu-tru/PRJ321x/blob/main/6.%20T%C3%A0i%20Nguy%C3%AAn%20Tham%20Kh%E1%BA%A3o%3A%20T%E1%BB%91i%20%C6%AFu%20V%C3%A0%20C%E1%BA%A5u%20H%C3%ACnh%20Connection%20Pool%20JDBC%20C%E1%BB%A7a%20Tomcat%20Cho%20M%C3%B4i%20Tr%C6%B0%E1%BB%9Dng%20S%E1%BA%A3n%20Xu%E1%BA%A5t.md)
+>[7. Tối Ưu Và Cấu Hình Connection Pool JDBC Của Tomcat Cho Môi Trường Sản Xuất](https://github.com/nmt-luu-tru/PRJ321x/blob/main/6.%20T%C3%A0i%20Nguy%C3%AAn%20Tham%20Kh%E1%BA%A3o%3A%20T%E1%BB%91i%20%C6%AFu%20V%C3%A0%20C%E1%BA%A5u%20H%C3%ACnh%20Connection%20Pool%20JDBC%20C%E1%BB%A7a%20Tomcat%20Cho%20M%C3%B4i%20Tr%C6%B0%E1%BB%9Dng%20S%E1%BA%A3n%20Xu%E1%BA%A5t.md)
 >
->[7. Tổng Quan Kiến Trúc Ứng Dụng ](https://github.com/nmt-luu-tru/PRJ321x/blob/main/T%E1%BB%95ng%20Quan%20Ki%E1%BA%BFn%20Tr%C3%BAc%20%E1%BB%A8ng%20D%E1%BB%A5ng.md)
+>[8. Tổng Quan Kiến Trúc Ứng Dụng ](https://github.com/nmt-luu-tru/PRJ321x/blob/main/T%E1%BB%95ng%20Quan%20Ki%E1%BA%BFn%20Tr%C3%BAc%20%E1%BB%A8ng%20D%E1%BB%A5ng.md)
 >>
 >>[Vòng Đời Của Ứng Dụng (Application Lifecycle)](https://github.com/nmt-luu-tru/PRJ321x/blob/main/V%C3%B2ng%20%C4%90%E1%BB%9Di%20C%E1%BB%A7a%20%E1%BB%A8ng%20D%E1%BB%A5ng%20(Application%20Lifecycle).md)
 >>
 >>[Ứng Dụng Được Khởi Chạy Khi Nào?](https://github.com/nmt-luu-tru/PRJ321x/blob/main/%E1%BB%A8ng%20D%E1%BB%A5ng%20%C4%90%C6%B0%E1%BB%A3c%20Kh%E1%BB%9Fi%20Ch%E1%BA%A1y%20Khi%20N%C3%A0o%3F.md)
 >>
 >>[Khi Ứng Dụng Được Triển Khai Thủ Công (Manual Deployment)](https://github.com/nmt-luu-tru/PRJ321x/blob/main/Khi%20%E1%BB%A8ng%20D%E1%BB%A5ng%20%C4%90%C6%B0%E1%BB%A3c%20Tri%E1%BB%83n%20Khai%20Th%E1%BB%A7%20C%C3%B4ng%20(Manual%20Deployment).md)
+## Phần 8.1 - Thực hành xây dựng ứng dụng Web cùng với JDBC - 1
+>[1. Tổng quan và demo project](https://github.com/nmt-luu-tru/PRJ321x/blob/main/Project%20Overview%20and%20Demo.md)
+>
+>[2. Hướng Dẫn Thiết Lập Cơ Sở Dữ Liệu](https://github.com/nmt-luu-tru/PRJ321x/blob/main/H%C6%B0%E1%BB%9Bng%20D%E1%BA%ABn%20Thi%E1%BA%BFt%20L%E1%BA%ADp%20C%C6%A1%20S%E1%BB%9F%20D%E1%BB%AF%20Li%E1%BB%87u%20Cho%20D%E1%BB%B1%20%C3%81n.md)
 ## Phần 8.2 - Thực hành xây dựng ứng dụng Web cùng với JDBC - 2
 >[1. Tạo Lớp Student.java Cho Ứng Dụng Quản Lý Sinh Viên](https://github.com/nmt-luu-tru/PRJ321x/blob/main/B%C6%B0%E1%BB%9Bc%201%3A%20T%E1%BA%A1o%20L%E1%BB%9Bp%20Student.java%20Cho%20%E1%BB%A8ng%20D%E1%BB%A5ng%20Qu%E1%BA%A3n%20L%C3%BD%20Sinh%20Vi%C3%AAn.md)
 >
