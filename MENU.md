@@ -87,6 +87,8 @@
 >
 >[4. Cấu Hình Tomcat Để Sử Dụng Database Connection Pool](https://github.com/nmt-luu-tru/PRJ321x/blob/main/C%E1%BA%A5u%20H%C3%ACnh%20Tomcat%20%C4%90%E1%BB%83%20S%E1%BB%AD%20D%E1%BB%A5ng%20Database%20Connection%20Pool.md)
 >
+>>[Sự khác biệt giữa việc sử dụng JDBC với DriverManager và với Connection Pool](https://github.com/nmt-luu-tru/PRJ321x/blob/main/S%E1%BB%B1%20kh%C3%A1c%20bi%E1%BB%87t%20gi%E1%BB%AFa%20vi%E1%BB%87c%20s%E1%BB%AD%20d%E1%BB%A5ng%20JDBC%20v%E1%BB%9Bi%20DriverManager%20v%C3%A0%20v%E1%BB%9Bi%20Connection%20Pool.md)
+>
 >>[Đối Tượng DataSource Trong Java](https://github.com/nmt-luu-tru/PRJ321x/blob/main/%C4%90%E1%BB%91i%20T%C6%B0%E1%BB%A3ng%20DataSource%20Trong%20Java.md)
 >>
 >>[Quy Trình Hoạt Động Của Đối Tượng DataSource](https://github.com/nmt-luu-tru/PRJ321x/blob/main/Quy%20Tr%C3%ACnh%20Ho%E1%BA%A1t%20%C4%90%E1%BB%99ng%20C%E1%BB%A7a%20%C4%90%E1%BB%91i%20T%C6%B0%E1%BB%A3ng%20DataSource.md)
