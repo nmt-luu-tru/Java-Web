@@ -165,14 +165,21 @@
 [Link udemy](https://udemy.com/course/java-programming-tutorial-for-beginners/learn/lecture/25694062#overview)
 ## Phần 1 - Giới thiệu Spring Framework
 >[1. Kiến Trúc Ứng Dụng](https://github.com/nmt-luu-tru/Java-Programming-for-Complete-Beginners/blob/main/Understanding%20the%20Need%20for%20Java%20Spring%20Framework.md)
+>
 >[2. Giới Thiệu Về Mục Tiêu Của Phần Học](https://github.com/nmt-luu-tru/Java-Programming-for-Complete-Beginners/blob/main/Getting%20Started%20with%20Java%20Spring%20Framework.md)
+>
 >[3. Hướng Dẫn Tạo Dự Án Spring](https://github.com/nmt-luu-tru/Java-Programming-for-Complete-Beginners/blob/main/Creating%20a%20New%20Spring%20Framework%20Project%20with%20Maven%20and%20Java.md)
+>
 >[4. Giới Thiệu Về Spring Initializr Và Maven](https://github.com/nmt-luu-tru/Java-Programming-for-Complete-Beginners/blob/main/Quick%20Intro%20to%20Spring%20Initializr%20and%20Maven.md)
+>
 >[5. Hướng Dẫn Tạo Game Runner Class Cho Trò Chơi Mario](https://github.com/nmt-luu-tru/Java-Programming-for-Complete-Beginners/blob/main/Getting%20Started%20with%20Java%20Gaming%20Application.md)
+>
 >[6. Thêm Các Nút Điều Khiển Cho Trò Chơi Mario](https://github.com/nmt-luu-tru/Java-Programming-for-Complete-Beginners/blob/main/Th%C3%AAm%20C%C3%A1c%20N%C3%BAt%20%C4%90i%E1%BB%81u%20Khi%E1%BB%83n%20Cho%20Tr%C3%B2%20Ch%C6%A1i%20Mario.md)
+>
 >[7. Giới Thiệu Về Từ Khóa var Trong Java](https://github.com/nmt-luu-tru/Java-Programming-for-Complete-Beginners/blob/main/Introduction%20to%20var%20-%20Java%2010%20New%20Feature.md)
+>
 >[8. Tight Coupling Và Loose Coupling](https://github.com/nmt-luu-tru/Java-Programming-for-Complete-Beginners/blob/main/Understanding%20Tight%20Coupling.md)
-
+>
 
 
 
