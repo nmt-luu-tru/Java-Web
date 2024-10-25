@@ -262,6 +262,26 @@
 >[2. Cài đặt Lombok trong IntelliJ IDEA](https://github.com/nmt-luu-tru/Java-Programming-for-Complete-Beginners/blob/main/C%C3%A0i%20%C4%91%E1%BA%B7t%20Lombok%20trong%20IntelliJ%20IDEA.md)
 >
 >[3. Sử dụng Lombok](https://github.com/nmt-luu-tru/Java-Programming-for-Complete-Beginners/blob/main/S%E1%BB%AD%20d%E1%BB%A5ng%20Lombok.md)
+## Phần 4 - Spring MVC
+>[1. Giới thiệu về Spring MVC](https://github.com/nmt-luu-tru/Java-Programming-for-Complete-Beginners/blob/main/Gi%E1%BB%9Bi%20thi%E1%BB%87u%20v%E1%BB%81%20Spring%20MVC.md)
+>
+>[2. Tạo một dự án Maven mới để giới thiệu Spring MVC](https://github.com/nmt-luu-tru/Java-Programming-for-Complete-Beginners/blob/main/T%E1%BA%A1o%20m%E1%BB%99t%20d%E1%BB%B1%20%C3%A1n%20Maven%20m%E1%BB%9Bi%20%C4%91%E1%BB%83%20gi%E1%BB%9Bi%20thi%E1%BB%87u%20Spring%20MVC.md)
+>
+>[3. Thiết lập chương trình với Maven và thêm các phụ thuộc cần thiết](https://github.com/nmt-luu-tru/Java-Programming-for-Complete-Beginners/blob/main/Thi%E1%BA%BFt%20l%E1%BA%ADp%20ch%C6%B0%C6%A1ng%20tr%C3%ACnh%20v%E1%BB%9Bi%20Maven%20v%C3%A0%20th%C3%AAm%20c%C3%A1c%20ph%E1%BB%A5%20thu%E1%BB%99c%20c%E1%BA%A7n%20thi%E1%BA%BFt.md)
+>
+>[4. Plugin Maven WAR](https://github.com/nmt-luu-tru/Java-Programming-for-Complete-Beginners/blob/main/Plugin%20Maven%20WAR.md)
+>
+>[5. Plugin Maven Cargo](https://github.com/nmt-luu-tru/Java-Programming-for-Complete-Beginners/blob/main/Plugin%20Maven%20Cargo.md)
+>
+>[6. Thiết lập Spring MVC Dispatcher Servlet](https://github.com/nmt-luu-tru/Java-Programming-for-Complete-Beginners/blob/main/Thi%E1%BA%BFt%20l%E1%BA%ADp%20Spring%20MVC%20Dispatcher%20Servlet.md)
+>
+>[7. Xây dựng Controller Đầu Tiên](https://github.com/nmt-luu-tru/Java-Programming-for-Complete-Beginners/blob/main/X%C3%A2y%20d%E1%BB%B1ng%20Controller%20%C4%90%E1%BA%A7u%20Ti%C3%AAn.md)
+>
+>[8. Cài đặt ViewResolver và Tạo View Đầu Tiên](https://github.com/nmt-luu-tru/Java-Programming-for-Complete-Beginners/blob/main/C%C3%A0i%20%C4%91%E1%BA%B7t%20ViewResolver%20v%C3%A0%20T%E1%BA%A1o%20View%20%C4%90%E1%BA%A7u%20Ti%C3%AAn.md)
+>
+>[9. Quá trình xử lý yêu cầu (request processing) trong Spring MVC](https://github.com/nmt-luu-tru/Java-Programming-for-Complete-Beginners/blob/main/Qu%C3%A1%20tr%C3%ACnh%20x%E1%BB%AD%20l%C3%BD%20y%C3%AAu%20c%E1%BA%A7u%20(request%20processing)%20trong%20Spring%20MVC.md)
+>
+>[10. Model và thêm dữ liệu vào Model](https://github.com/nmt-luu-tru/Java-Programming-for-Complete-Beginners/blob/main/Model%20v%C3%A0%20th%C3%AAm%20d%E1%BB%AF%20li%E1%BB%87u%20v%C3%A0o%20Model.md)
 
 
 
