@@ -180,7 +180,25 @@
 >
 >[8. Tight Coupling Và Loose Coupling](https://github.com/nmt-luu-tru/Java-Programming-for-Complete-Beginners/blob/main/Understanding%20Tight%20Coupling.md)
 >
-
+>[9. Tạo Loose Coupling Với Interfaces](https://github.com/nmt-luu-tru/Java-Programming-for-Complete-Beginners/blob/main/Introducing%20Java%20Interface%20to%20Make%20App%20Loosely%20Coupled.md)
+>
+>[10. Tạo Pac-Man Game](https://github.com/nmt-luu-tru/Java-Programming-for-Complete-Beginners/blob/main/Exercise%20-%20Adding%20Pacman%20Game.md)
+>
+>[11. Giới Thiệu Về Wiring of Dependencies Và Spring Framework](https://github.com/nmt-luu-tru/Java-Programming-for-Complete-Beginners/blob/main/Bringing%20in%20Spring%20Framework%20to%20Make%20Java%20App%20Loosely%20Coupled.md)
+>
+>[12. Tạo Spring Bean Đầu Tiên Và Giới Thiệu Spring Configuration Class](https://github.com/nmt-luu-tru/Java-Programming-for-Complete-Beginners/blob/main/Launching%20Java%20Spring%20Configuration.md)
+>
+>[13. Tạo Nhiều Spring Bean Và Giới Thiệu Về Record Trong Java](https://github.com/nmt-luu-tru/Java-Programming-for-Complete-Beginners/blob/main/Creating%20More%20Java%20Spring%20Beans%20in%20Spring%20Java%20Configuration%20File.md)
+>
+>[14. Tạo Bean Mới và Tái Sử Dụng Các Bean Tồn Tại Trong Spring](https://github.com/nmt-luu-tru/Java-Programming-for-Complete-Beginners/blob/main/Reusing%20Existing%20Spring%20Beans%20for%20Auto%20Wiring.md)
+>
+>[15. Nhìn tổng quan về cách Spring Container hoạt động](https://github.com/nmt-luu-tru/Java-Programming-for-Complete-Beginners/blob/main/Understanding%20Spring%20IOC%20Container%3A%20Application%20Context%20%26%20Bean%20Factory.md)
+>
+>[16. Sự khác biệt giữa Java Bean, POJO, và Spring Bean](https://github.com/nmt-luu-tru/Java-Programming-for-Complete-Beginners/blob/main/Exploring%20Java%20Bean%20vs%20POJO%20vs%20Spring%20Bean.md)
+>
+>[17. Liệt Kê Bean và Xử Lý Nhiều Bean Trùng Khớp](https://github.com/nmt-luu-tru/Java-Programming-for-Complete-Beginners/blob/main/Li%E1%BB%87t%20K%C3%AA%20Bean%20v%C3%A0%20X%E1%BB%AD%20L%C3%BD%20Nhi%E1%BB%81u%20Bean%20Tr%C3%B9ng%20Kh%E1%BB%9Bp.md)
+>
+>[18. Giải Quyết Bài Tập: Tạo Ứng Dụng Game Sử Dụng Spring](https://github.com/nmt-luu-tru/Java-Programming-for-Complete-Beginners/blob/main/Gi%E1%BA%A3i%20Quy%E1%BA%BFt%20B%C3%A0i%20T%E1%BA%ADp%3A%20T%E1%BA%A1o%20%E1%BB%A8ng%20D%E1%BB%A5ng%20Game%20S%E1%BB%AD%20D%E1%BB%A5ng%20Spring.md)
 
 
 
