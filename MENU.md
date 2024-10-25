@@ -211,8 +211,26 @@
 >[5. Ôn Tập Các Thuật Ngữ Quan Trọng Trong Spring Framework](https://github.com/nmt-luu-tru/Java-Programming-for-Complete-Beginners/blob/main/%C3%94n%20T%E1%BA%ADp%20C%C3%A1c%20Thu%E1%BA%ADt%20Ng%E1%BB%AF%20Quan%20Tr%E1%BB%8Dng%20Trong%20Spring%20Framework.md)
 >
 >[6. Sự Khác Biệt Giữa @Component và @Bean trong Spring Framework](https://github.com/nmt-luu-tru/Java-Programming-for-Complete-Beginners/blob/main/S%E1%BB%B1%20Kh%C3%A1c%20Bi%E1%BB%87t%20Gi%E1%BB%AFa%20%40Component%20v%C3%A0%20%40Bean%20trong%20Spring%20Framework.md)
+## Phần 3 - Các tính năng nâng cao của Spring Framework
+>[1. Khởi Tạo Trì Hoãn](https://github.com/nmt-luu-tru/Java-Programming-for-Complete-Beginners/blob/main/Lazy%20Initialization%20of%20Spring%20Beans.md)
 >
+>[2. Các Scope của Spring Beans](https://github.com/nmt-luu-tru/Java-Programming-for-Complete-Beginners/blob/main/C%C3%A1c%20Scope%20c%E1%BB%A7a%20Spring%20Beans.md)
 >
+>[3. PostConstruct và PreDestroy](https://github.com/nmt-luu-tru/Java-Programming-for-Complete-Beginners/blob/main/PostConstruct%20v%C3%A0%20PreDestroy%20Trong%20Spring%20Framework.md)
+>
+>[4. Tổng Quan về Quá Trình Phát Triển của J2EE, Java EE, và Jakarta EE](https://github.com/nmt-luu-tru/Java-Programming-for-Complete-Beginners/blob/main/T%E1%BB%95ng%20Quan%20v%E1%BB%81%20Qu%C3%A1%20Tr%C3%ACnh%20Ph%C3%A1t%20Tri%E1%BB%83n%20c%E1%BB%A7a%20J2EE%2C%20Java%20EE%2C%20v%C3%A0%20Jakarta%20EE.md)
+>
+>[5. CDI (Contexts and Dependency Injection) trong Jakarta EE và Spring Framework](https://github.com/nmt-luu-tru/Java-Programming-for-Complete-Beginners/blob/main/CDI%20(Contexts%20and%20Dependency%20Injection)%20trong%20Jakarta%20EE%20v%C3%A0%20Spring%20Framework.md)
+>
+>[6. Cấu Hình XML trong Spring Framework](https://github.com/nmt-luu-tru/Java-Programming-for-Complete-Beginners/blob/main/C%E1%BA%A5u%20H%C3%ACnh%20XML%20trong%20Spring%20Framework.md)
+>
+>[7. So Sánh Giữa Cấu Hình Annotations và Cấu Hình XML](https://github.com/nmt-luu-tru/Java-Programming-for-Complete-Beginners/blob/main/So%20S%C3%A1nh%20Gi%E1%BB%AFa%20C%E1%BA%A5u%20H%C3%ACnh%20Annotations%20v%C3%A0%20C%E1%BA%A5u%20H%C3%ACnh%20XML%20Trong%20Spring%20Framework.md)
+>
+>[8. Spring Stereotype Annotations](https://github.com/nmt-luu-tru/Java-Programming-for-Complete-Beginners/blob/main/Spring%20Stereotype%20Annotations%3A%20%40Component%2C%20%40Service%2C%20%40Controller%2C%20%40Repository.md)
+>
+>[9. Tổng quan về các Annotation quan trọng trong Spring](https://github.com/nmt-luu-tru/Java-Programming-for-Complete-Beginners/blob/main/T%E1%BB%95ng%20quan%20v%E1%BB%81%20c%C3%A1c%20Annotation%20quan%20tr%E1%BB%8Dng%20trong%20Spring.md)
+>
+>[10. Tổng quan về Spring Framework, các module và các dự án Spring](https://github.com/nmt-luu-tru/Java-Programming-for-Complete-Beginners/blob/main/T%E1%BB%95ng%20quan%20v%E1%BB%81%20Spring%20Framework%2C%20c%C3%A1c%20module%20v%C3%A0%20c%C3%A1c%20d%E1%BB%B1%20%C3%A1n%20Spring.md)
 
 
 
