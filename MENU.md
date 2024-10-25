@@ -231,6 +231,16 @@
 >[9. Tổng quan về các Annotation quan trọng trong Spring](https://github.com/nmt-luu-tru/Java-Programming-for-Complete-Beginners/blob/main/T%E1%BB%95ng%20quan%20v%E1%BB%81%20c%C3%A1c%20Annotation%20quan%20tr%E1%BB%8Dng%20trong%20Spring.md)
 >
 >[10. Tổng quan về Spring Framework, các module và các dự án Spring](https://github.com/nmt-luu-tru/Java-Programming-for-Complete-Beginners/blob/main/T%E1%BB%95ng%20quan%20v%E1%BB%81%20Spring%20Framework%2C%20c%C3%A1c%20module%20v%C3%A0%20c%C3%A1c%20d%E1%BB%B1%20%C3%A1n%20Spring.md)
+---
+# CÁC KIẾN THỨC CƠ BẢN VỀ SPRING MVC
+[Link udemy](https://udemy.com/course/java-spring-framework-masterclass/learn/lecture/6763706#overview)
+## Một số điều
+>[Những ngày đầu của lập trình web với Java](https://github.com/nmt-luu-tru/Java-Programming-for-Complete-Beginners/blob/main/Nh%E1%BB%AFng%20ng%C3%A0y%20%C4%91%E1%BA%A7u%20c%E1%BB%A7a%20l%E1%BA%ADp%20tr%C3%ACnh%20web%20v%E1%BB%9Bi%20Java.md)
+>
+>[Mô hình MVC khi lập trình web Java trước đây](https://github.com/nmt-luu-tru/Java-Programming-for-Complete-Beginners/blob/main/M%C3%B4%20h%C3%ACnh%20MVC%20khi%20l%E1%BA%ADp%20tr%C3%ACnh%20web%20Java%20tr%C6%B0%E1%BB%9Bc%20%C4%91%C3%A2y.md)
+>
+>[Hiệu quả của Spring MVC so với việc chỉ sử dụng JSP và Servlet truyền thống](https://github.com/nmt-luu-tru/Java-Programming-for-Complete-Beginners/blob/main/Hi%E1%BB%87u%20qu%E1%BA%A3%20c%E1%BB%A7a%20Spring%20MVC%20so%20v%E1%BB%9Bi%20vi%E1%BB%87c%20ch%E1%BB%89%20s%E1%BB%AD%20d%E1%BB%A5ng%20JSP%20v%C3%A0%20Servlet%20truy%E1%BB%81n%20th%E1%BB%91ng.md)
+
 
 
 
