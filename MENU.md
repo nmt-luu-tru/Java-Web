@@ -211,6 +211,8 @@
 >[5. Ôn Tập Các Thuật Ngữ Quan Trọng Trong Spring Framework](https://github.com/nmt-luu-tru/Java-Programming-for-Complete-Beginners/blob/main/%C3%94n%20T%E1%BA%ADp%20C%C3%A1c%20Thu%E1%BA%ADt%20Ng%E1%BB%AF%20Quan%20Tr%E1%BB%8Dng%20Trong%20Spring%20Framework.md)
 >
 >[6. Sự Khác Biệt Giữa @Component và @Bean trong Spring Framework](https://github.com/nmt-luu-tru/Java-Programming-for-Complete-Beginners/blob/main/S%E1%BB%B1%20Kh%C3%A1c%20Bi%E1%BB%87t%20Gi%E1%BB%AFa%20%40Component%20v%C3%A0%20%40Bean%20trong%20Spring%20Framework.md)
+>
+>[7. Sử dụng properties file](https://github.com/nmt-luu-tru/Java-Programming-for-Complete-Beginners/blob/main/s%E1%BB%AD%20d%E1%BB%A5ng%20properties.md)
 ## Phần 3 - Các tính năng nâng cao của Spring Framework
 >[1. Khởi Tạo Trì Hoãn](https://github.com/nmt-luu-tru/Java-Programming-for-Complete-Beginners/blob/main/Lazy%20Initialization%20of%20Spring%20Beans.md)
 >
