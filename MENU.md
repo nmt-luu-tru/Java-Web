@@ -199,7 +199,20 @@
 >[17. Liệt Kê Bean và Xử Lý Nhiều Bean Trùng Khớp](https://github.com/nmt-luu-tru/Java-Programming-for-Complete-Beginners/blob/main/Li%E1%BB%87t%20K%C3%AA%20Bean%20v%C3%A0%20X%E1%BB%AD%20L%C3%BD%20Nhi%E1%BB%81u%20Bean%20Tr%C3%B9ng%20Kh%E1%BB%9Bp.md)
 >
 >[18. Giải Quyết Bài Tập: Tạo Ứng Dụng Game Sử Dụng Spring](https://github.com/nmt-luu-tru/Java-Programming-for-Complete-Beginners/blob/main/Gi%E1%BA%A3i%20Quy%E1%BA%BFt%20B%C3%A0i%20T%E1%BA%ADp%3A%20T%E1%BA%A1o%20%E1%BB%A8ng%20D%E1%BB%A5ng%20Game%20S%E1%BB%AD%20D%E1%BB%A5ng%20Spring.md)
-
+## Phần 2 - Sử dụng Spring Framework để tạo và quản lý project
+>[1. Cách Spring Tự Động Quản Lý Và Tạo Đối Tượng (Beans)](https://github.com/nmt-luu-tru/Java-Programming-for-Complete-Beginners/blob/main/C%C3%A1ch%20Spring%20T%E1%BB%B1%20%C4%90%E1%BB%99ng%20Qu%E1%BA%A3n%20L%C3%BD%20V%C3%A0%20T%E1%BA%A1o%20%C4%90%E1%BB%91i%20T%C6%B0%E1%BB%A3ng%20(Beans).md)
+>
+>[2. Nhiều Bean Cùng Triển Khai Interface](https://github.com/nmt-luu-tru/Java-Programming-for-Complete-Beginners/blob/main/V%E1%BA%A5n%20%C4%90%E1%BB%81%3A%20Nhi%E1%BB%81u%20Bean%20C%C3%B9ng%20Tri%E1%BB%83n%20Khai%20Interface.md)
+>
+>[3. Sự Khác Biệt Giữa @Primary và @Qualifier](https://github.com/nmt-luu-tru/Java-Programming-for-Complete-Beginners/blob/main/S%E1%BB%B1%20Kh%C3%A1c%20Bi%E1%BB%87t%20Gi%E1%BB%AFa%20%40Primary%20v%C3%A0%20%40Qualifier.md)
+>
+>[4. Khám Phá Các Loại Dependency Injection Trong Spring](https://github.com/nmt-luu-tru/Java-Programming-for-Complete-Beginners/blob/main/Kh%C3%A1m%20Ph%C3%A1%20C%C3%A1c%20Lo%E1%BA%A1i%20Dependency%20Injection%20Trong%20Spring.md)
+>
+>[5. Ôn Tập Các Thuật Ngữ Quan Trọng Trong Spring Framework](https://github.com/nmt-luu-tru/Java-Programming-for-Complete-Beginners/blob/main/%C3%94n%20T%E1%BA%ADp%20C%C3%A1c%20Thu%E1%BA%ADt%20Ng%E1%BB%AF%20Quan%20Tr%E1%BB%8Dng%20Trong%20Spring%20Framework.md)
+>
+>[6. Sự Khác Biệt Giữa @Component và @Bean trong Spring Framework](https://github.com/nmt-luu-tru/Java-Programming-for-Complete-Beginners/blob/main/S%E1%BB%B1%20Kh%C3%A1c%20Bi%E1%BB%87t%20Gi%E1%BB%AFa%20%40Component%20v%C3%A0%20%40Bean%20trong%20Spring%20Framework.md)
+>
+>
 
 
 
