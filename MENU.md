@@ -282,6 +282,26 @@
 >[9. Quá trình xử lý yêu cầu (request processing) trong Spring MVC](https://github.com/nmt-luu-tru/Java-Programming-for-Complete-Beginners/blob/main/Qu%C3%A1%20tr%C3%ACnh%20x%E1%BB%AD%20l%C3%BD%20y%C3%AAu%20c%E1%BA%A7u%20(request%20processing)%20trong%20Spring%20MVC.md)
 >
 >[10. Model và thêm dữ liệu vào Model](https://github.com/nmt-luu-tru/Java-Programming-for-Complete-Beginners/blob/main/Model%20v%C3%A0%20th%C3%AAm%20d%E1%BB%AF%20li%E1%BB%87u%20v%C3%A0o%20Model.md)
+>
+>[11. Hiểu thêm về ModelAttribute](https://github.com/nmt-luu-tru/Java-Programming-for-Complete-Beginners/blob/main/Hi%E1%BB%83u%20th%C3%AAm%20v%E1%BB%81%20ModelAttribute.md)
+>
+>[12. Demo Service Layer](https://github.com/nmt-luu-tru/Java-Programming-for-Complete-Beginners/blob/main/Demo%20Service%20Layer.md)
+>
+>[13. Hiểu thêm về Service Layer và annotation @Service](https://github.com/nmt-luu-tru/Java-Programming-for-Complete-Beginners/blob/main/Hi%E1%BB%83u%20th%C3%AAm%20v%E1%BB%81%20Service%20Layer%20v%C3%A0%20annotation%20%40Service.md)
+>
+>[14. Request Parameters trong Spring MVC](https://github.com/nmt-luu-tru/Java-Programming-for-Complete-Beginners/blob/main/Request%20Parameters%20trong%20Spring%20MVC.md)
+>
+>[15. Yêu cầu của dự án Ứng dụng quản lý to-do list](https://github.com/nmt-luu-tru/Java-Programming-for-Complete-Beginners/blob/main/Y%C3%AAu%20c%E1%BA%A7u%20c%E1%BB%A7a%20d%E1%BB%B1%20%C3%A1n%20%E1%BB%A8ng%20d%E1%BB%A5ng%20qu%E1%BA%A3n%20l%C3%BD%20to-do%20list.md)
+>
+>[16. Tạo lớp ToDoItem](https://github.com/nmt-luu-tru/Java-Programming-for-Complete-Beginners/blob/main/T%E1%BA%A1o%20l%E1%BB%9Bp%20ToDoItem.md)
+>
+>[17. Tạo lớp ToDoData](https://github.com/nmt-luu-tru/Java-Programming-for-Complete-Beginners/blob/main/T%E1%BA%A1o%20l%E1%BB%9Bp%20ToDoData.md)
+>
+>[18. Tạo lớp ToDoItemController](https://github.com/nmt-luu-tru/Java-Programming-for-Complete-Beginners/blob/main/T%E1%BA%A1o%20l%E1%BB%9Bp%20ToDoItemController.md)
+>
+>[19. Tạo file items_list.jsp](https://github.com/nmt-luu-tru/Java-Programming-for-Complete-Beginners/blob/main/T%E1%BA%A1o%20file%20items_list.jsp.md)
+>
+>[20. Triển khai interface TodoItemService, sử dụng lớp TodoItemServiceImpl](https://github.com/nmt-luu-tru/Java-Programming-for-Complete-Beginners/blob/main/Tri%E1%BB%83n%20khai%20interface%20TodoItemService%2C%20s%E1%BB%AD%20d%E1%BB%A5ng%20l%E1%BB%9Bp%20TodoItemServiceImpl.md)
 
 
 
