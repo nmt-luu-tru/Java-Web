@@ -256,6 +256,12 @@
 >[2. Sử Dụng Logback](https://github.com/nmt-luu-tru/Java-Programming-for-Complete-Beginners/blob/main/S%E1%BB%AD%20D%E1%BB%A5ng%20Logback%20Trong%20Maven%20D%E1%BB%B1%20%C3%81n.md)
 >
 >[3. Khởi Tạo và Cấu Hình Logback Bằng XML](https://github.com/nmt-luu-tru/Java-Programming-for-Complete-Beginners/blob/main/Kh%E1%BB%9Fi%20T%E1%BA%A1o%20v%C3%A0%20C%E1%BA%A5u%20H%C3%ACnh%20Logback%20B%E1%BA%B1ng%20XML.md)
+## Phần 3 - Lombok
+>[1. Giới thiệu Lombok](https://github.com/nmt-luu-tru/Java-Programming-for-Complete-Beginners/blob/main/Gi%E1%BB%9Bi%20thi%E1%BB%87u%20v%E1%BB%81%20Project%20Lombok.md)
+>
+>[2. Cài đặt Lombok trong IntelliJ IDEA](https://github.com/nmt-luu-tru/Java-Programming-for-Complete-Beginners/blob/main/C%C3%A0i%20%C4%91%E1%BA%B7t%20Lombok%20trong%20IntelliJ%20IDEA.md)
+>
+>[3. Sử dụng Lombok](https://github.com/nmt-luu-tru/Java-Programming-for-Complete-Beginners/blob/main/S%E1%BB%AD%20d%E1%BB%A5ng%20Lombok.md)
 
 
 
