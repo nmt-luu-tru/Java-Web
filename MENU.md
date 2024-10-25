@@ -182,7 +182,7 @@
 >
 >[9. Tạo Loose Coupling Với Interfaces](https://github.com/nmt-luu-tru/Java-Programming-for-Complete-Beginners/blob/main/Introducing%20Java%20Interface%20to%20Make%20App%20Loosely%20Coupled.md)
 >
->[10. Tạo Pac-Man Game](https://github.com/nmt-luu-tru/Java-Programming-for-Complete-Beginners/blob/main/Exercise%20-%20Adding%20Pacman%20Game.md)
+>[10. Bài tập: Tạo Pac-Man Game](https://github.com/nmt-luu-tru/Java-Programming-for-Complete-Beginners/blob/main/Exercise%20-%20Adding%20Pacman%20Game.md)
 >
 >[11. Giới Thiệu Về Wiring of Dependencies Và Spring Framework](https://github.com/nmt-luu-tru/Java-Programming-for-Complete-Beginners/blob/main/Bringing%20in%20Spring%20Framework%20to%20Make%20Java%20App%20Loosely%20Coupled.md)
 >
