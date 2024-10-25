@@ -248,6 +248,12 @@
 >[3. Hướng Dẫn Sửa Lỗi Khi Mở Dự Án Maven Trong IntelliJ IDEA](https://github.com/nmt-luu-tru/Java-Programming-for-Complete-Beginners/blob/main/H%C6%B0%E1%BB%9Bng%20D%E1%BA%ABn%20S%E1%BB%ADa%20L%E1%BB%97i%20Khi%20M%E1%BB%9F%20D%E1%BB%B1%20%C3%81n%20Maven%20Trong%20IntelliJ%20IDEA.md)
 >
 >[4. Maven Lifecycle, Plugins và Goals](https://github.com/nmt-luu-tru/Java-Programming-for-Complete-Beginners/blob/main/Maven%20Lifecycle%2C%20Plugins%20v%C3%A0%20Goals.md)
+## Phần 2 - Ghi log với SLF4J và Logback
+>[1. Logging Trong Java Và Spring MVC](https://github.com/nmt-luu-tru/Java-Programming-for-Complete-Beginners/blob/main/Logging%20Trong%20Java%20V%C3%A0%20Spring%20MVC.md)
+>
+>[2. Sử Dụng Logback](https://github.com/nmt-luu-tru/Java-Programming-for-Complete-Beginners/blob/main/S%E1%BB%AD%20D%E1%BB%A5ng%20Logback%20Trong%20Maven%20D%E1%BB%B1%20%C3%81n.md)
+>
+>[3. Khởi Tạo và Cấu Hình Logback Bằng XML](https://github.com/nmt-luu-tru/Java-Programming-for-Complete-Beginners/blob/main/Kh%E1%BB%9Fi%20T%E1%BA%A1o%20v%C3%A0%20C%E1%BA%A5u%20H%C3%ACnh%20Logback%20B%E1%BA%B1ng%20XML.md)
 
 
 
