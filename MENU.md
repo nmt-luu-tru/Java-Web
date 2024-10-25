@@ -240,6 +240,14 @@
 >[Mô hình MVC khi lập trình web Java trước đây](https://github.com/nmt-luu-tru/Java-Programming-for-Complete-Beginners/blob/main/M%C3%B4%20h%C3%ACnh%20MVC%20khi%20l%E1%BA%ADp%20tr%C3%ACnh%20web%20Java%20tr%C6%B0%E1%BB%9Bc%20%C4%91%C3%A2y.md)
 >
 >[Hiệu quả của Spring MVC so với việc chỉ sử dụng JSP và Servlet truyền thống](https://github.com/nmt-luu-tru/Java-Programming-for-Complete-Beginners/blob/main/Hi%E1%BB%87u%20qu%E1%BA%A3%20c%E1%BB%A7a%20Spring%20MVC%20so%20v%E1%BB%9Bi%20vi%E1%BB%87c%20ch%E1%BB%89%20s%E1%BB%AD%20d%E1%BB%A5ng%20JSP%20v%C3%A0%20Servlet%20truy%E1%BB%81n%20th%E1%BB%91ng.md)
+## Phần 1 - Maven
+>[1. Maven là gì?](https://github.com/nmt-luu-tru/Java-Programming-for-Complete-Beginners/blob/main/Maven%20l%C3%A0%20g%C3%AC%3F.md)
+>
+>[2. Hướng Dẫn Tạo, Build và Chạy Dự Án Maven Trong IntelliJ](https://github.com/nmt-luu-tru/Java-Programming-for-Complete-Beginners/blob/main/H%C6%B0%E1%BB%9Bng%20D%E1%BA%ABn%20T%E1%BA%A1o%2C%20Build%20v%C3%A0%20Ch%E1%BA%A1y%20D%E1%BB%B1%20%C3%81n%20Maven%20Trong%20IntelliJ.md)
+>
+>[3. Hướng Dẫn Sửa Lỗi Khi Mở Dự Án Maven Trong IntelliJ IDEA](https://github.com/nmt-luu-tru/Java-Programming-for-Complete-Beginners/blob/main/H%C6%B0%E1%BB%9Bng%20D%E1%BA%ABn%20S%E1%BB%ADa%20L%E1%BB%97i%20Khi%20M%E1%BB%9F%20D%E1%BB%B1%20%C3%81n%20Maven%20Trong%20IntelliJ%20IDEA.md)
+>
+>[4. Maven Lifecycle, Plugins và Goals](https://github.com/nmt-luu-tru/Java-Programming-for-Complete-Beginners/blob/main/Maven%20Lifecycle%2C%20Plugins%20v%C3%A0%20Goals.md)
 
 
 
