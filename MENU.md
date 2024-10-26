@@ -234,7 +234,7 @@
 >
 >[10. Tổng quan về Spring Framework, các module và các dự án Spring](https://github.com/nmt-luu-tru/Java-Programming-for-Complete-Beginners/blob/main/T%E1%BB%95ng%20quan%20v%E1%BB%81%20Spring%20Framework%2C%20c%C3%A1c%20module%20v%C3%A0%20c%C3%A1c%20d%E1%BB%B1%20%C3%A1n%20Spring.md)
 ---
-# CÁC KIẾN THỨC CƠ BẢN VỀ SPRING MVC
+# LÀM QUEN SPRING MVC
 [Link udemy](https://udemy.com/course/java-spring-framework-masterclass/learn/lecture/6763706#overview)
 ## Một số điều
 >[Những ngày đầu của lập trình web với Java](https://github.com/nmt-luu-tru/Java-Programming-for-Complete-Beginners/blob/main/Nh%E1%BB%AFng%20ng%C3%A0y%20%C4%91%E1%BA%A7u%20c%E1%BB%A7a%20l%E1%BA%ADp%20tr%C3%ACnh%20web%20v%E1%BB%9Bi%20Java.md)
