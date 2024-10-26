@@ -302,6 +302,20 @@
 >[19. Tạo file items_list.jsp](https://github.com/nmt-luu-tru/Java-Programming-for-Complete-Beginners/blob/main/T%E1%BA%A1o%20file%20items_list.jsp.md)
 >
 >[20. Triển khai interface TodoItemService, sử dụng lớp TodoItemServiceImpl](https://github.com/nmt-luu-tru/Java-Programming-for-Complete-Beginners/blob/main/Tri%E1%BB%83n%20khai%20interface%20TodoItemService%2C%20s%E1%BB%AD%20d%E1%BB%A5ng%20l%E1%BB%9Bp%20TodoItemServiceImpl.md)
+>
+>[21. Data Binding trong Spring MVC](https://github.com/nmt-luu-tru/Java-Programming-for-Complete-Beginners/blob/main/Data%20Binding%20trong%20Spring%20MVC.md)
+>
+>[22. Triển khai tính năng thêm mục to-do](https://github.com/nmt-luu-tru/Java-Programming-for-Complete-Beginners/blob/main/Tri%E1%BB%83n%20khai%20t%C3%ADnh%20n%C4%83ng%20th%C3%AAm%20m%E1%BB%A5c%20to-do.md)
+>
+>[23. Kỹ thuật Post-Redirect-Get (PRG)](https://github.com/nmt-luu-tru/Java-Programming-for-Complete-Beginners/blob/main/K%E1%BB%B9%20thu%E1%BA%ADt%20Post-Redirect-Get%20(PRG).md)
+>
+>[24. Điều hướng giữa các trang](https://github.com/nmt-luu-tru/Java-Programming-for-Complete-Beginners/blob/main/%C4%90i%E1%BB%81u%20h%C6%B0%E1%BB%9Bng%20gi%E1%BB%AFa%20c%C3%A1c%20trang.md)
+>
+>[25. Triển khai chức năng xóa mục (delete item)](https://github.com/nmt-luu-tru/Java-Programming-for-Complete-Beginners/blob/main/Tri%E1%BB%83n%20khai%20ch%E1%BB%A9c%20n%C4%83ng%20x%C3%B3a%20m%E1%BB%A5c%20(delete%20item).md)
+>
+>[26. Triển khai chức năng chỉnh sửa mục](https://github.com/nmt-luu-tru/Java-Programming-for-Complete-Beginners/blob/main/tri%E1%BB%83n%20khai%20ch%E1%BB%A9c%20n%C4%83ng%20ch%E1%BB%89nh%20s%E1%BB%ADa%20m%E1%BB%A5c.md)
+>
+>[27. Triển khai chức năng xem chi tiết một mục](https://github.com/nmt-luu-tru/Java-Programming-for-Complete-Beginners/blob/main/Tri%E1%BB%83n%20khai%20ch%E1%BB%A9c%20n%C4%83ng%20xem%20chi%20ti%E1%BA%BFt%20m%E1%BB%99t%20m%E1%BB%A5c.md)
 
 
 
