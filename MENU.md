@@ -318,19 +318,9 @@
 >[27. Triển khai chức năng xem chi tiết một mục](https://github.com/nmt-luu-tru/Java-Programming-for-Complete-Beginners/blob/main/Tri%E1%BB%83n%20khai%20ch%E1%BB%A9c%20n%C4%83ng%20xem%20chi%20ti%E1%BA%BFt%20m%E1%BB%99t%20m%E1%BB%A5c.md)
 ---
 # SPRING BOOT 3, SPRING 6 VÀ HIBERNATE
-[Link udemy](https://udemy.com/course/spring-hibernate-tutorial/learn/lecture/36836872#overview)
-## Phần 1 - Làm quen với Spring Boot 3
->[1. Mục tiêu chính của khóa học](https://github.com/nmt-luu-tru/Spring-Boot-3-Spring-6-Hibernate-for-Beginners/blob/main/1.1.%20M%E1%BB%A5c%20ti%C3%AAu%20ch%C3%ADnh%20c%E1%BB%A7a%20kh%C3%B3a%20h%E1%BB%8Dc.md)
->
->[2. Giới thiệu về Spring Boot](https://github.com/nmt-luu-tru/Spring-Boot-3-Spring-6-Hibernate-for-Beginners/blob/main/1.2.%20Gi%E1%BB%9Bi%20thi%E1%BB%87u%20v%E1%BB%81%20Spring%20Boot.md)
->
->[3. Demo Spring Boot Initializr](https://github.com/nmt-luu-tru/Spring-Boot-3-Spring-6-Hibernate-for-Beginners/blob/main/1.3.%20Demo%20Spring%20Boot%20Initializr.md)
->
->[4. Tạo REST Controller trong Spring Boot](https://github.com/nmt-luu-tru/Spring-Boot-3-Spring-6-Hibernate-for-Beginners/blob/main/1.4.%20T%E1%BA%A1o%20REST%20Controller%20trong%20Spring%20Boot.md)
->
->[5. Giới thiệu về Các Dự Án Spring](https://github.com/nmt-luu-tru/Spring-Boot-3-Spring-6-Hibernate-for-Beginners/blob/main/1.5.%20Gi%E1%BB%9Bi%20thi%E1%BB%87u%20v%E1%BB%81%20C%C3%A1c%20D%E1%BB%B1%20%C3%81n%20Spring.md)
->
->
+[Link udemy](https://udemy.com/course/spring-hibernate-tutorial/learn/lecture/36836872#overview)  
+
+[Link tài liệu](https://github.com/nmt-luu-tru/Spring-Boot-3-Spring-6-Hibernate-for-Beginners/blob/main/1.1.%20M%E1%BB%A5c%20ti%C3%AAu%20ch%C3%ADnh%20c%E1%BB%A7a%20kh%C3%B3a%20h%E1%BB%8Dc.md)
 
 
 
