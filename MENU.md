@@ -316,6 +316,10 @@
 >[26. Triển khai chức năng chỉnh sửa mục](https://github.com/nmt-luu-tru/Java-Programming-for-Complete-Beginners/blob/main/tri%E1%BB%83n%20khai%20ch%E1%BB%A9c%20n%C4%83ng%20ch%E1%BB%89nh%20s%E1%BB%ADa%20m%E1%BB%A5c.md)
 >
 >[27. Triển khai chức năng xem chi tiết một mục](https://github.com/nmt-luu-tru/Java-Programming-for-Complete-Beginners/blob/main/Tri%E1%BB%83n%20khai%20ch%E1%BB%A9c%20n%C4%83ng%20xem%20chi%20ti%E1%BA%BFt%20m%E1%BB%99t%20m%E1%BB%A5c.md)
+---
+# SPRING BOOT 3, SPRING 6 VÀ HIBERNATE
+[Link udemy](https://udemy.com/course/spring-hibernate-tutorial/learn/lecture/36836872#overview)
+
 
 
 
