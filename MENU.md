@@ -283,6 +283,8 @@
 >
 >[10. Model và thêm dữ liệu vào Model](https://github.com/nmt-luu-tru/Java-Programming-for-Complete-Beginners/blob/main/Model%20v%C3%A0%20th%C3%AAm%20d%E1%BB%AF%20li%E1%BB%87u%20v%C3%A0o%20Model.md)
 >
+>>[10.1 Hiểu thêm về Model](https://github.com/nmt-luu-tru/Java-Programming-for-Complete-Beginners/blob/main/Hi%E1%BB%83u%20th%C3%AAm%20v%E1%BB%81%20tham%20s%E1%BB%91%20Model.md)
+>
 >[11. Hiểu thêm về ModelAttribute](https://github.com/nmt-luu-tru/Java-Programming-for-Complete-Beginners/blob/main/Hi%E1%BB%83u%20th%C3%AAm%20v%E1%BB%81%20ModelAttribute.md)
 >
 >[12. Demo Service Layer](https://github.com/nmt-luu-tru/Java-Programming-for-Complete-Beginners/blob/main/Demo%20Service%20Layer.md)
